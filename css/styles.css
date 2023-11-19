@@ -1,0 +1,15 @@
+/* Geral */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+    color: #ffffff;
+    box-sizing: border-box;
+}
+
+/*Corpo do Projeto*/
+body{
+    background-image: url(../img/fund_dark.jpg);
+    background-position: top;
+    background-size: 100%;
+}
